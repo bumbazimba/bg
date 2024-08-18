@@ -59,6 +59,7 @@
 #### Азиатские
 - ⭐[Hanan](https://maps.app.goo.gl/F71JFmuC27MxE63c6) Ливанский ресторан
 - [Kultura](https://maps.app.goo.gl/M3suWAhSxSVZzZPt8) Турецкий ресторан
+- [MINGXUAN](https://maps.app.goo.gl/m4Miz35XamNCvnoi6) китайский
 - [Hot Pot](https://maps.app.goo.gl/1p6tNSmpbm3sRVr36) китайский [хот пот - что это](https://www.chinahighlights.ru/culture/hotpot.htm) НБГ
 - [Sushi Go](https://maps.app.goo.gl/7yVo2GKLYWPLanUi8) Сеть суши
 #### Мексиканские
